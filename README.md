@@ -1,6 +1,8 @@
 # IEEE-bibitem-converter
 Converts standard google scholar .bib entries to IEEE single file bibitem
 
+image:https://img.shields.io/github/license/pranay22/IEEE-bibitem-converter[License,link=https://github.com/pranay22/IEEE-bibitem-converter/blob/main/LICENSE]
+
 ## Usage
 
 
